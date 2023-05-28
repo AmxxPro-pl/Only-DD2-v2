@@ -71,7 +71,7 @@
 
 - Menu główne serwera:
 
-<img src="https://github.com/N1K1Cz/Only-DD2-v2/blob/main/zdj/menu.png"></img>
+<img src="https://github.com/AmxxPro-pl/Only-DD2-v2/blob/main/zdj/menu.png"></img>
 
 - Menu opis VIP:
 
