@@ -1,6 +1,6 @@
 <div align="center">
 <h1><p></p>ONLY DD2 v2<p></p></h1>
-<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner-new.png"></img>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/banner-new-2.png"></img>
 </div>
 
 ---
